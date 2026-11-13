@@ -1,0 +1,1 @@
+# Gerador-de-Curriculos-ATS-Friendly-com-Lovable
