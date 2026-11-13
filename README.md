@@ -301,10 +301,4 @@ A aplicação pode ser acessada pelo seguinte endereço:
 
 Link: [https://pixel-perfect-replay-62380.lovable.app/
 ](https://pixel-perfect-replay-62380.lovable.app/)
-💡 Considerações finais
 
-O JobMatch AI demonstra como ferramentas de inteligência artificial podem ser utilizadas para solucionar problemas reais relacionados à busca por emprego e à preparação para processos seletivos.
-
-Através da centralização das informações profissionais, da análise de vagas e da geração de currículos personalizados, a plataforma busca tornar a candidatura mais estratégica e eficiente.
-
-O projeto também demonstra o potencial do desenvolvimento assistido por IA, utilizando o Lovable para transformar uma ideia estruturada em uma aplicação web acessível e funcional.
